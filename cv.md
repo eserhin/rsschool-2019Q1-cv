@@ -8,8 +8,8 @@ Making test cases, writing bug reports, making checklists, basic knowledge of My
 ##Example of latestest code:
 
 `
-weakPoint(matrix){
-  var rs = [], cs = [];
+    weakPoint(matrix){
+      var rs = [], cs = [];
       for (let r = 0; r < matrix.length; r++) {
           for (let c = 0; c < matrix.length; c++) {
               rs[r] = (rSum[r] || 0) + matrix[r][c];
@@ -18,7 +18,7 @@ weakPoint(matrix){
       }
       return [rs.indexOf( Math.min.apply(Math, rs) ), 
               cs.indexOf( Math.min.apply(Math, cs) )];
-}
+    }
 `
 
  Passed the free part of the javarush courses. Performed tasks on the site codewars on JavaScript. Performed tasks on Rollingscopes.com
