@@ -2,8 +2,7 @@
 ![Image](https://pp.userapi.com/c845321/v845321979/13af3b/A0LQ5YAv0R0.jpg)
 ####Contacts: Skype: evilihem Email: veserhin@gmail.com
 ###Summary: 
-I would like to get a job in a company that has directed my efforts in the right direction for the development of my skills. Ready to get new knowledge                  
- in order to become a professional in my field and move up the career path.
+I would like to get a job in a company that has directed my efforts in the right direction for the development of my skills. Have a great desire to get new knowledge in order to become a professional in my field and move up the career path. 
 ##Skills: 
 Making test cases, writing bug reports, making checklists, basic knowledge of MySql, JavaScript, Css, Git.
 ##Example of latestest code:
