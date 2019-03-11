@@ -12,8 +12,8 @@ weakPoint(matrix){
 
       for (let r = 0; r < matrix.length; r++) {
           for (let c = 0; c < matrix.length; c++) {
-              rs[r] = (rSum[r] || 0) + matrix[r][c];
-              cs[c] = (cSum[c] || 0) + matrix[r][c];            
+              rs[r] = (rs[r] || 0) + matrix[r][c];
+              cs[c] = (cs[c] || 0) + matrix[r][c];            
           }
       }
       return [rs.indexOf( Math.min.apply(Math, rs) ), 
