@@ -1,0 +1,51 @@
+html{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+body {
+ 
+}
+header{
+  width: 1024px;
+  background-image: url('./assets/images/Student-id.png');
+  height: 200px;
+  background-position: 50%;
+  background-size: 1024px 400px;
+  background-repeat: no-repeat;
+}
+main{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 450px;
+  width: 1024px;
+  background-color: wheat;
+}
+.document{
+  width: 250px;
+  position: relative;
+  bottom: 10px;
+}
+.info{
+  width: 550px;
+}
+.name{
+  left: 5%;
+  font-family: 'Courier New', Courier, monospace;
+  color: coral;
+  font-size: 22px;
+  position: relative;
+}
+.main-image{
+  width: 225px;
+  height: 385px;
+}
+.code{
+  position: relative;
+  right: 40px;
+  top: 10px;
+}
