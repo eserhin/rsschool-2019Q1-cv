@@ -5,9 +5,6 @@ html{
   align-items: center;
   height: 100%;
 }
-body {
- 
-}
 header{
   width: 1024px;
   background-image: url('./assets/images/Student-id.png');
@@ -36,7 +33,7 @@ main{
 .name{
   left: 5%;
   font-family: 'Courier New', Courier, monospace;
-  color: coral;
+  color: rgb(82, 44, 170);
   font-size: 22px;
   position: relative;
 }
